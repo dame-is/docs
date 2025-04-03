@@ -10,7 +10,7 @@ This document curates a comprehensive list of resources for founders interested 
 ### Books
 - [Rework](https://basecamp.com/books/rework)
 - [Company of One](https://ofone.co)
-- [Small Giants](https://bo Burlingham.com/small-giants)
+- [Small Giants](https://boburlingham.com/small-giants)
 - [The Minimalist Entrepreneur](https://sahillavingia.com/minimalist-entrepreneur)
 - [Working in Public](https://nadiaeghbal.com/working-in-public)
 - [Ours to Hack and to Own](https://www.ourstohackandtoown.net)
