@@ -57,7 +57,7 @@ A no-nonsense business book by Basecamp founders that challenges traditional sta
 **Company of One** – [Link](https://ofone.co)  
 Paul Jarvis explores how staying small can actually lead to a more fulfilling, profitable, and sustainable business.
 
-**Small Giants** – [Link](https://bo Burlingham.com/small-giants)  
+**Small Giants** – [Link](https://boburlingham.com/small-giants)  
 Profiles companies that chose excellence and community over rapid growth. Inspires founders to prioritize values over scale.
 
 **The Minimalist Entrepreneur** – [Link](https://sahillavingia.com/minimalist-entrepreneur)  
